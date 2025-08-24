@@ -1,19 +1,19 @@
 # Hi there! 👋 I'm Aniket Kumar
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=0EA5E9&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;Problem+Solver;Tech+Enthusiast;Always+Learning!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=0EA5E9&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;Job+Automation+Specialist;AI+Integration+Expert;Python+%26+FastAPI+Developer" alt="Typing SVG" />
 </div>
 
 ## 🚀 About Me
 
-I'm a passionate **Full-Stack Developer** who loves creating innovative solutions and exploring new technologies. I believe in writing clean, efficient code and building applications that make a difference.
+I'm a passionate **Full-Stack Developer** who loves creating innovative solutions and exploring new technologies. I specialize in building job tracking applications, AI automation tools, and modern web solutions using Python, FastAPI, and JavaScript frameworks.
 
-- 🔭 I'm currently working on exciting projects
-- 🌱 I'm constantly learning and staying up-to-date with the latest tech trends
-- 👯 I'm looking to collaborate on open source projects
-- 💬 Ask me about web development, software engineering, and tech in general
+- 🔭 I'm currently working on **Job Application Tracking Systems** and **AI Automation Tools**
+- 🌱 I'm constantly learning **AI/ML technologies** and **modern web development frameworks**
+- 👯 I'm looking to collaborate on **open source projects** related to job tracking, automation, and web development
+- 💬 Ask me about **FastAPI**, **Python**, **Job Automation**, **Web Development**, and **AI Integration**
 - 📫 How to reach me: **aniket.kumar.devpro@gmail.com**
-- ⚡ Fun fact: I love solving complex problems and turning ideas into reality!
+- ⚡ Fun fact: I love building tools that help people manage their careers and automate repetitive tasks!
 
 ## 🛠️ Tech Stack
 
@@ -80,11 +80,20 @@ I'm a passionate **Full-Stack Developer** who loves creating innovative solution
 ## 🌟 Featured Projects
 
 <div align="center">
-  <a href="https://github.com/DevAniketIT/your-project-1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DevAniketIT&repo=your-project-1&theme=tokyonight" />
+  <a href="https://github.com/DevAniketIT/aniket-portfolio-">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DevAniketIT&repo=aniket-portfolio-&theme=tokyonight" />
   </a>
-  <a href="https://github.com/DevAniketIT/your-project-2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DevAniketIT&repo=your-project-2&theme=tokyonight" />
+  <a href="https://github.com/DevAniketIT/portfolio-website">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DevAniketIT&repo=portfolio-website&theme=tokyonight" />
+  </a>
+</div>
+
+<div align="center">
+  <a href="https://github.com/DevAniketIT/Ai-automation-portfolio">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DevAniketIT&repo=Ai-automation-portfolio&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/DevAniketIT/fastapi-job-tracker">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DevAniketIT&repo=fastapi-job-tracker&theme=tokyonight" />
   </a>
 </div>
 
