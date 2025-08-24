@@ -8,12 +8,29 @@
 
 I'm a passionate **Full-Stack Developer** who loves creating innovative solutions and exploring new technologies. I specialize in building job tracking applications, AI automation tools, and modern web solutions using Python, FastAPI, and JavaScript frameworks.
 
+🏆 **5+ Years of Continuous Development (2020-2025)** - Consistent contributor with a passion for solving real-world problems
+
 - 🔭 I'm currently working on **Job Application Tracking Systems** and **AI Automation Tools**
 - 🌱 I'm constantly learning **AI/ML technologies** and **modern web development frameworks**
 - 👯 I'm looking to collaborate on **open source projects** related to job tracking, automation, and web development
 - 💬 Ask me about **FastAPI**, **Python**, **Job Automation**, **Web Development**, and **AI Integration**
 - 📫 How to reach me: **aniket.kumar.devpro@gmail.com**
 - ⚡ Fun fact: I love building tools that help people manage their careers and automate repetitive tasks!
+
+## 🎯 Development Journey
+
+```
+2020 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 2025
+ 👨‍🎓      💻      🚀       🤖        🏆       🔮
+ Began    Web Dev   Full Stack  AI/ML     Expert    Future
+ Learning  Focus    Developer  Integration  Level   Projects
+```
+
+- **2020-2021:** 🎯 Started programming journey, mastered fundamentals
+- **2021-2022:** 🌐 Focused on web development, learned frameworks
+- **2022-2023:** 🚀 Became full-stack developer, built complete applications
+- **2023-2024:** 🤖 Integrated AI/ML into projects, automation expertise
+- **2024-2025:** 🏆 Advanced skills in job automation and career tools
 
 ## 🛠️ Tech Stack
 
@@ -54,7 +71,7 @@ I'm a passionate **Full-Stack Developer** who loves creating innovative solution
 ![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats & Continuous Contributions (2020-2025)
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DevAniketIT&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
@@ -63,6 +80,26 @@ I'm a passionate **Full-Stack Developer** who loves creating innovative solution
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=DevAniketIT&theme=tokyonight" alt="GitHub Streak" />
+</div>
+
+### 🔥 5 Years of Consistent Coding
+
+<div align="center">
+
+| **Year Range** | **Focus Area** | **Key Achievements** |
+|----------------|----------------|----------------------|
+| 2020-2021 | 🌱 **Foundation** | Programming fundamentals, first projects |
+| 2021-2022 | 🌍 **Web Development** | Frontend frameworks, responsive design |
+| 2022-2023 | 🚀 **Full-Stack** | End-to-end applications, database integration |
+| 2023-2024 | 🤖 **AI Integration** | Machine learning, automation tools |
+| 2024-2025 | 🏆 **Specialization** | Job automation, career management tools |
+
+</div>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Coding_Since-2020-blue?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Years_Active-5+-green?style=for-the-badge&logo=calendar&logoColor=white" />
+  <img src="https://img.shields.io/badge/Consistency-Daily_Commits-orange?style=for-the-badge&logo=gitattention&logoColor=white" />
 </div>
 
 ## 🏆 GitHub Trophies
@@ -114,7 +151,40 @@ I'm a passionate **Full-Stack Developer** who loves creating innovative solution
   </a>
 </div>
 
-## 💡 Random Dev Quote
+## 📈 Coding Activity & Stats
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DevAniketIT&theme=tokyonight" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DevAniketIT&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DevAniketIT&theme=tokyonight" />
+</div>
+
+## 🏆 Achievement Timeline (2020-2025)
+
+<div align="center">
+
+```
+🎆 CONTINUOUS DEVELOPMENT JOURNEY 🎆
+
+2020 ┏━━━━━━━┓    2021 ┏━━━━━━━┓    2022 ┏━━━━━━━┓
+     ┃ START ┃         ┃  WEB   ┃         ┃ STACK ┃
+     ┃ CODE  ┃         ┃  DEV   ┃         ┃  FULL ┃
+     ┗━━━━━━━┛         ┗━━━━━━━┛         ┗━━━━━━━┛
+
+2023 ┏━━━━━━━┓    2024 ┏━━━━━━━┓    2025 ┏━━━━━━━┓
+     ┃  AI   ┃         ┃ AUTO  ┃         ┃EXPERT┃
+     ┃ FOCUS ┃         ┃ TOOLS ┃         ┃ LEVEL ┃
+     ┗━━━━━━━┛         ┗━━━━━━━┛         ┗━━━━━━━┛
+
+            🔥 5 YEARS OF CONSISTENT CODING 🔥
+```
+
+</div>
+
+## 💬 Random Dev Quote
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
@@ -124,9 +194,15 @@ I'm a passionate **Full-Stack Developer** who loves creating innovative solution
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=DevAniketIT&color=blueviolet&style=flat-square&label=Profile+Views" />
+  <img src="https://img.shields.io/badge/Since-2020-brightgreen?style=flat-square&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Focus-Job_Automation-blue?style=flat-square&logo=robot&logoColor=white" />
   
   <br/>
   <br/>
   
-  **Thanks for visiting my profile! Let's connect and build something amazing together!** 🚀
+  **🚀 5 Years of Coding Excellence | Building the Future of Job Automation 🚀**
+  
+  <br/>
+  
+  **Thanks for visiting my profile! Let's connect and build something amazing together!**
 </div>
