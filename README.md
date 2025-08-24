@@ -204,5 +204,5 @@ I'm a passionate **Full-Stack Developer** who loves creating innovative solution
   
   <br/>
   
-  **Thanks for visiting my profile! Let's connect and build something amazing together!**
+  **Thanks for visiting my profile! Let's connect and build something amazing together!** ✨
 </div>
