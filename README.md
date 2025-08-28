@@ -1,21 +1,38 @@
-# Hi there! 👋 I'm Aniket Kumar
-
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=0EA5E9&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;Job+Automation+Specialist;AI+Integration+Expert;Python+%26+FastAPI+Developer" alt="Typing SVG" />
+  <h1>👋 Hello, I'm Aniket Kumar</h1>
+  <h3>🚀 Enterprise Software Architect & Full-Stack Developer</h3>
+  
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=0EA5E9&center=true&vCenter=true&width=600&lines=Enterprise+Software+Architect;Full-Stack+Developer;AI+%26+Automation+Specialist;Python+%7C+FastAPI+%7C+React+Expert;Building+Scalable+Solutions" alt="Typing SVG" />
+  
+  <br/>
+  
+  [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://aniket-portfolio.dev)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aniket-dev)
+  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aniket.kumar.devpro@gmail.com)
+  [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/AniketDev)
+  
 </div>
 
-## 🚀 About Me
+---
 
-I'm a passionate **Full-Stack Developer** who loves creating innovative solutions and exploring new technologies. I specialize in building job tracking applications, AI automation tools, and modern web solutions using Python, FastAPI, and JavaScript frameworks.
+## 🎯 **Professional Overview**
 
-🏆 **5+ Years of Continuous Development (2020-2025)** - Consistent contributor with a passion for solving real-world problems
+**Experienced Enterprise Software Architect** with 5+ years of hands-on experience building scalable, secure, and high-performance applications. I specialize in creating comprehensive enterprise solutions that solve real-world business challenges while maintaining the highest standards of code quality and system architecture.
 
-- 🔭 I'm currently working on **Job Application Tracking Systems** and **AI Automation Tools**
-- 🌱 I'm constantly learning **AI/ML technologies** and **modern web development frameworks**
-- 👯 I'm looking to collaborate on **open source projects** related to job tracking, automation, and web development
-- 💬 Ask me about **FastAPI**, **Python**, **Job Automation**, **Web Development**, and **AI Integration**
-- 📫 How to reach me: **aniket.kumar.devpro@gmail.com**
-- ⚡ Fun fact: I love building tools that help people manage their careers and automate repetitive tasks!
+### 🏢 **Core Expertise**
+- **🏗️ Enterprise Architecture** - Designing scalable, maintainable, and secure systems
+- **🌐 Full-Stack Development** - Modern web applications with React, Python, and cloud technologies
+- **🤖 AI & Automation** - Intelligent systems and process automation solutions
+- **📱 Mobile-First Solutions** - Cross-platform applications with responsive design
+- **☁️ Cloud & DevOps** - Container orchestration, CI/CD pipelines, and infrastructure as code
+- **🔒 Security Engineering** - Enterprise-grade security frameworks and compliance
+
+### 🎖️ **Professional Highlights**
+- **🏆 5+ Years** of consistent software development (2020-2025)
+- **🚀 10+ Enterprise Projects** deployed to production
+- **📊 Advanced Analytics** and monitoring systems expertise
+- **🔐 Security-First** development approach with compliance standards
+- **🌟 Open Source** contributor and community leader
 
 ## 🎯 Development Journey
 
@@ -114,14 +131,120 @@ I'm a passionate **Full-Stack Developer** who loves creating innovative solution
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=DevAniketIT&theme=tokyo-night&bg_color=1a1b27&color=be90f2&line=626880&point=f8d847&area=true&hide_border=true" alt="GitHub Activity Graph" />
 </div>
 
-## 🌟 Featured Projects
+## 🎆 **Enterprise Project Portfolio**
+
+### 🏆 **Flagship Enterprise Solutions**
+
+<table>
+<tr>
+<td width="50%">
+
+#### 🚀 [**AndroidZen Pro**](https://github.com/DevAniketIT/androidzen-pro)
+**Enterprise Android Device Management Platform**
+- 📱 **Fleet Management** for 1000+ devices
+- 🔒 **Military-grade security** with compliance auditing
+- 📊 **Real-time analytics** and performance monitoring
+- ⚡ **Production-ready** with Docker & Kubernetes
+
+**Stack:** `Python` `FastAPI` `React` `PostgreSQL` `Docker` `Redis`
+
+</td>
+<td width="50%">
+
+#### 💵 [**Price Monitor System**](https://github.com/DevAniketIT/Price-Monitor-System)
+**Intelligent E-commerce Price Tracking**
+- 🔍 **Real-time price monitoring** across platforms
+- 📊 **Advanced analytics** and trend prediction
+- 🔔 **Smart alerting system** with notifications
+- 🤖 **AI-powered insights** for market analysis
+
+**Stack:** `Python` `AI/ML` `Web Scraping` `Data Analysis`
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+#### 🤖 [**AI Automation Portfolio**](https://github.com/DevAniketIT/Ai-automation-portfolio)
+**Intelligent Process Automation Suite**
+- 🤖 **Machine Learning** automation workflows
+- 📊 **Data processing** and analysis pipelines
+- 🔄 **Task automation** with intelligent scheduling
+- 📝 **Document processing** and extraction
+
+**Stack:** `Python` `TensorFlow` `Pandas` `Automation`
+
+</td>
+<td width="50%">
+
+#### 💼 [**Job Application Tracker**](https://github.com/DevAniketIT/fastapi-job-tracker)
+**Professional Career Management Platform**
+- 📋 **Application lifecycle** management
+- 📊 **Analytics dashboard** with insights
+- 🔔 **Smart notifications** and reminders
+- 📝 **Resume optimization** recommendations
+
+**Stack:** `FastAPI` `React` `PostgreSQL` `JWT`
+
+</td>
+</tr>
+</table>
+
+### 🌐 **Professional Portfolio & Web Development**
 
 <div align="center">
-  <a href="https://github.com/DevAniketIT/aniket-portfolio-">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DevAniketIT&repo=aniket-portfolio-&theme=tokyonight" />
+
+| 💼 **Portfolio Projects** | 🎆 **Description** | 🔧 **Tech Stack** |
+|---------------------------|---------------------------|-------------------------|
+| [**Portfolio Website**](https://github.com/DevAniketIT/portfolio-website) | Modern responsive portfolio with admin panel | `Python` `Web Development` `Responsive` |
+| [**Aniket Portfolio**](https://github.com/DevAniketIT/aniket-portfolio-) | Full-stack portfolio with job tracking suite | `Python` `FastAPI` `Full-Stack` |
+| [**Job Tracker Suite**](https://github.com/DevAniketIT/job-tracker-suite) | Comprehensive job application management | `Multi-Platform` `Career Tools` |
+
+</div>
+
+---
+
+## 🏅 **Technical Excellence & Achievements**
+
+<div align="center">
+
+### 📊 **Project Impact Metrics**
+
+| 🎯 **Metric** | 📊 **Value** | 🏆 **Achievement** |
+|-------------------|-------------------|-------------------------|
+| **Total Projects** | **10+** | 🚀 Enterprise-grade solutions |
+| **Lines of Code** | **100,000+** | 💻 Production-ready codebase |
+| **Technologies Mastered** | **20+** | 🎆 Full-stack expertise |
+| **Years of Experience** | **5+** | 💪 Consistent development |
+| **Problem Domains** | **6+** | 🎯 Diverse industry experience |
+| **Repository Stars** | **Growing** | 🌟 Community recognition |
+
+</div>
+
+### 🎨 **Domain Expertise**
+
+<div align="center">
+
+```mermaid
+graph LR
+    A[🏢 Enterprise Solutions] --> B[📱 Mobile Device Management]
+    A --> C[💵 E-commerce & Pricing]
+    A --> D[🤖 AI & Automation]
+    A --> E[💼 Career Management]
+    A --> F[🌐 Web Development]
+    A --> G[📊 Data Analytics]
+```
+
+</div>
+
+## 🌟 **GitHub Repository Showcase**
+
+<div align="center">
+  <a href="https://github.com/DevAniketIT/androidzen-pro">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DevAniketIT&repo=androidzen-pro&theme=tokyonight" />
   </a>
-  <a href="https://github.com/DevAniketIT/portfolio-website">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DevAniketIT&repo=portfolio-website&theme=tokyonight" />
+  <a href="https://github.com/DevAniketIT/Price-Monitor-System">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DevAniketIT&repo=Price-Monitor-System&theme=tokyonight" />
   </a>
 </div>
 
